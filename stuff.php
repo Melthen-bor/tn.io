@@ -110,7 +110,7 @@ if($register=="yes"){
         }
         fclose($gender);
         if($passed==1){
-          
+          https
         }
       }
     }
